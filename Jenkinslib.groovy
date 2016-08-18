@@ -1,5 +1,5 @@
 #!groovy
 
-def test_me()
+def test_me() {
   sh 'echo passed'
 }
